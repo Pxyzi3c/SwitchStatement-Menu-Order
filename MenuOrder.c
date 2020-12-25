@@ -44,9 +44,3 @@ getch();
     F=French Fries
     P=Pizza
     S=Sandwiches*/
-/*The program inputs the type of food and quantity. It finally displays the total charges for the order according to the following criteria:
-    Burger=Rs. 200
-    French fries= Rs. 50
-    Pizza= Rs. 500
-    Sandwiches= Rs. 140*/
-
